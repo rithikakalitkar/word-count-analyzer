@@ -1,0 +1,13 @@
+Txt files at the locations /home/data: /home/data/IF.txt, /home/data/Limerick.txt
+Word Count in /home/data/IF.txt is 287
+Top 3 words with their wordCount :
+and : 16
+if : 14
+you : 14
+Word Count in /home/data/Limerick.txt is 32
+Top 3 words with their wordCount :
+can : 6
+a : 5
+canner : 4
+Total number of words in both the files: 319
+IpAddress: 172.17.0.2
